@@ -1,1 +1,1 @@
-# spring-lecture2
+# spring 강의 기록소
